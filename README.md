@@ -2,7 +2,7 @@
 
 ## Inventory Management Application - React Bootstrap
 
-### Repository for Assignment 5 of CS648-C1 (Spring 2021)
+### Repository for Assignment 6 of CS648-C1 (Spring 2021)
 
 #### About
 
